@@ -1,5 +1,5 @@
-# wingman-ci
-Continuous integration and deployment for Wingman App
+# Kobiton CI / CD integration with Jenkins, React Native, and CodePush
+Continuous integration and deployment for Wingman App using Jenkins, React Native, and CodePush
 
 ### Prereqs
 -	Using MacOS High Sierra
